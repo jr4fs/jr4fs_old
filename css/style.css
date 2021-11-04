@@ -481,3 +481,11 @@ span.pub_info, span.pub_info a{
 .page-footer p:last-child {
   margin-bottom: 0;
 }
+
+
+.wrapingimage  
+{  
+float: left;   
+margin: 30px 12px 3px 4px;   
+border: 2px solid blue;  
+}  
