@@ -27,7 +27,7 @@
   
   .title-super {
     font-weight: 400;
-    font-size: 30px;
+    font-size: 50px;
   }
   
   .gray {
@@ -481,5 +481,3 @@ span.pub_info, span.pub_info a{
 .page-footer p:last-child {
   margin-bottom: 0;
 }
-
-
